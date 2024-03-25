@@ -1,7 +1,5 @@
 # varint
 
-[Source code](https://codeberg.org/mary-ext/pkg-varint)
-
 Encode and decode Protobuf-style varint bytes from a buffer.
 
 Fork of [chrisdickinson's `varint` npm package](https://npmjs.com/package/varint).
